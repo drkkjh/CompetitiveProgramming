@@ -23,3 +23,9 @@ Code repository for solutions I did for competitive programming questions on Kat
 - [Fenwick](fenwick)
 - [Mega Inversions](megainversions)
   
+## Testing:
+Run the following command and replace `<nameOfFile>` with desired name: 
+```
+g++ -std=c++11 <nameOfFile>.cpp -o <nameOfFile>
+./<nameOfFile> < input
+```
