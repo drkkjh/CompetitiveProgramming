@@ -20,4 +20,6 @@ Code repository for solutions I did for competitive programming questions on Kat
 - [Summertrip](summertrip)
 - [Tetration](tetration)
 - [Veci](veci)
+- [Fenwick](fenwick)
+- [Mega Inversions](megainversions)
   
