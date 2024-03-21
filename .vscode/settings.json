@@ -27,7 +27,11 @@
         "__string": "cpp",
         "filesystem": "cpp",
         "forward_list": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "complex": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
